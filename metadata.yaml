@@ -1,0 +1,32 @@
+_repo: The-Doctor-s-Dilemma_51564
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shaw, Bernard
+    aliases:
+    - Shaw, Bernhard
+    - Shaw, George Bernard
+    birthdate: 1856
+    deathdate: 1950
+    gutenberg_agent_id: '467'
+    url: http://www.gutenberg.org/2009/agents/467
+    wikipedia: http://en.wikipedia.org/wiki/George_Bernard_Shaw
+  editor:
+    agent_name: Rose, Temi
+    gutenberg_agent_id: '46494'
+    url: http://www.gutenberg.org/2009/agents/46494
+description: ''
+gutenberg_issued: '2016-04-02'
+gutenberg_type: Sound
+identifiers:
+  gutenberg: '51564'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Physicians -- Drama'
+- GITenberg
+title: The Doctor's Dilemma
+url: http://www.gutenberg.org/ebooks/51564
