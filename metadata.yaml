@@ -1,5 +1,8 @@
 _repo: The-Doctor-s-Dilemma_51564
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shaw, Bernard
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '46494'
     url: http://www.gutenberg.org/2009/agents/46494
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51564#The-Doctor-s-Dilemma
 gutenberg_issued: '2016-04-02'
 gutenberg_type: Sound
 identifiers:
